@@ -1,0 +1,45 @@
+# AML Simple — Status Page Configuration
+# Powered by Upptime (https://upptime.js.org)
+
+owner: gerbenupinion
+repo: status
+
+sites:
+  - name: Landing Site
+    url: https://amlsimple.com
+  - name: App
+    url: https://app.amlsimple.com
+  - name: Auth
+    url: https://auth.amlsimple.com
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+      - 403
+  - name: API / Edge Functions
+    url: https://api.amlsimple.com
+    expectedStatusCodes:
+      - 200
+      - 401
+      - 403
+  - name: Database
+    url: https://db.amlsimple.com
+    expectedStatusCodes:
+      - 200
+      - 401
+      - 403
+
+status-website:
+  cname: status.amlsimple.com
+  logoUrl: https://amlsimple.com/favicon.svg
+  name: AML Simple Status
+  introTitle: "**AML Simple** service status"
+  introMessage: "Real-time status and uptime monitoring for AML Simple services. Powered by [Upptime](https://github.com/upptime/upptime)."
+  theme: light
+  navbar:
+    - title: Status
+      href: /
+    - title: AML Simple
+      href: https://amlsimple.com
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
