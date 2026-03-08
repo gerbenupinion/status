@@ -1,0 +1,100 @@
+[
+  {
+    "name": "Landing Site",
+    "url": "https://amlsimple.com",
+    "icon": "https://icons.duckduckgo.com/ip3/amlsimple.com.ico",
+    "slug": "landing-site",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 198,
+    "timeDay": 198,
+    "timeWeek": 198,
+    "timeMonth": 198,
+    "timeYear": 198,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "App",
+    "url": "https://app.amlsimple.com",
+    "icon": "https://icons.duckduckgo.com/ip3/app.amlsimple.com.ico",
+    "slug": "app",
+    "status": "down",
+    "uptime": "1.84%",
+    "uptimeDay": "1.84%",
+    "uptimeWeek": "1.84%",
+    "uptimeMonth": "1.84%",
+    "uptimeYear": "1.84%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2026-03-08": 0
+    }
+  },
+  {
+    "name": "Auth",
+    "url": "https://auth.amlsimple.com",
+    "icon": "https://icons.duckduckgo.com/ip3/auth.amlsimple.com.ico",
+    "slug": "auth",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2026-03-08": 0
+    }
+  },
+  {
+    "name": "API / Edge Functions",
+    "url": "https://api.amlsimple.com",
+    "icon": "https://icons.duckduckgo.com/ip3/api.amlsimple.com.ico",
+    "slug": "api-edge-functions",
+    "status": "down",
+    "uptime": "11.21%",
+    "uptimeDay": "11.21%",
+    "uptimeWeek": "11.21%",
+    "uptimeMonth": "11.21%",
+    "uptimeYear": "11.21%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2026-03-08": 0
+    }
+  },
+  {
+    "name": "Database",
+    "url": "https://db.amlsimple.com",
+    "icon": "https://icons.duckduckgo.com/ip3/db.amlsimple.com.ico",
+    "slug": "database",
+    "status": "down",
+    "uptime": "8.31%",
+    "uptimeDay": "8.31%",
+    "uptimeWeek": "8.31%",
+    "uptimeMonth": "8.31%",
+    "uptimeYear": "8.31%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2026-03-08": 0
+    }
+  }
+]
