@@ -6,13 +6,13 @@ Public status page for [AML Simple](https://amlsimple.com) — powered by [Uppti
 
 ## Monitored Services
 
-| Service | URL |
-|---------|-----|
-| Landing Site | https://amlsimple.com |
-| App | https://app.amlsimple.com |
-| Auth | https://auth.amlsimple.com |
-| API / Edge Functions | https://api.amlsimple.com |
-| Database | https://db.amlsimple.com |
+| Service              | URL                        |
+| -------------------- | -------------------------- |
+| Landing Site         | https://amlsimple.com      |
+| App                  | https://app.amlsimple.com  |
+| Auth                 | https://auth.amlsimple.com |
+| API / Edge Functions | https://api.amlsimple.com  |
+| Database             | https://db.amlsimple.com   |
 
 ## How It Works
 
