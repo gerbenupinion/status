@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.amlsimple.com.ico",
     "slug": "app",
     "status": "up",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "12.87%",
+    "uptimeDay": "12.87%",
+    "uptimeWeek": "12.87%",
+    "uptimeMonth": "12.87%",
+    "uptimeYear": "12.87%",
     "time": 113,
     "timeDay": 113,
     "timeWeek": 113,
@@ -54,7 +54,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-08": 814
+      "2026-03-09": 74,
+      "2026-03-08": 861
     }
   },
   {
@@ -74,7 +75,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-08": 814
+      "2026-03-09": 74,
+      "2026-03-08": 861
     }
   },
   {
@@ -94,7 +96,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-08": 814
+      "2026-03-09": 74,
+      "2026-03-08": 861
     }
   }
 ]
